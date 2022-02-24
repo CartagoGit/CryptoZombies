@@ -8,7 +8,5 @@
   },
   "author": "Cartago <cv2cartago@gmail.com> (https://github.com/CartagoGit)",
   "license": "MIT",
-  "dependencies": {
-    "web3": "^1.7.0"
-  }
+  "dependencies": {}
 }
